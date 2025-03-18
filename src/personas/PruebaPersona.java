@@ -16,6 +16,7 @@ public class PruebaPersona {
     	
     	
     	int Cambio=1;
+        int Cambio2=2
          // Creamos varias instancias de personas
          Persona per1 = new Persona("20222444L", "María", "Carcelén Sánchez", 67);
          Persona per2 = new Persona("José", "Serrano Márquez", 25);
